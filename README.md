@@ -37,7 +37,7 @@ I'm a multi-skilled tech enthusiast with over **6 years of experience** across:
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zafranullah) *(add your profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/zafranullah) 
 
 ---
 
