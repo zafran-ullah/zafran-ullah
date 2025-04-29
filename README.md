@@ -7,9 +7,9 @@
 ### 🚀 About Me
 
 I'm a multi-skilled tech enthusiast with over **6 years of experience** across:
-- 🛠️ **DevOps & Cloud Infrastructure** — Docker, Terraform, Ansible, Azure, AWS
-- 🧱 **System Administration** — Linux (CentOS, Ubuntu, Redhat), Windows Server, VMware
-- 🎮 **Game Development** — Unity (2D/3D), C#, UI/UX, Ad integration, Scene Management
+- 🛠️ **DevOps & Cloud Infrastructure** — Docker, Terraform, Ansible, Azure, AWS, VMware
+- 🧱 **System Administration** — Linux (CentOS, Ubuntu, Redhat), Windows Server 
+- 🎮 **Game Development** — Unity (2D/3D), C#, UI/UX, Ads integration
 - 🖌️ **Graphic Design** — Photoshop, Illustrator
 - 📦 **CMS & Web Tech** — WordPress, Joomla, LAMP stack, NGINX, Apache
 
