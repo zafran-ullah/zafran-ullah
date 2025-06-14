@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a multi-skilled tech enthusiast with over **6 years of experience** across:
+I'm a multi-skilled tech enthusiast with over **9 years of experience** across:
 - 🛠️ **DevOps & Cloud Infrastructure** — Docker, Terraform, Ansible, Azure, AWS, VMware
 - 🧱 **System Administration** — Linux (CentOS, Ubuntu, Redhat), Windows Server 
 - 🎮 **Game Development** — Unity (2D/3D), C#, UI/UX, Ads integration
