@@ -48,7 +48,7 @@ I'm a multi-skilled tech professional with **9+ years of experience**, including
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn – zafranullah](https://www.linkedin.com/in/zafranullah)  
-- 💼 [My Portfolio – zafranullah.itch.io](https://zafranullah.itch.io)  
+- 💼 [My GameDev Portfolio](https://zafranullah.itch.io)  
 
 ---
 
